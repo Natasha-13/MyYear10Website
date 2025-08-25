@@ -7,7 +7,7 @@ html {
     /* The Font Family- Really important!! */
     font-family: Georgia, 'Times New Roman', Times, serif;
     box-sizing: border-box;
-    background-color: white;
+    background-color: rgb(255, 170, 244);
 }
 
 /* reset for images to ensure they ar 100% of the parent container width */
